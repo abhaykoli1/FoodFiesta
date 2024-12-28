@@ -1,0 +1,25 @@
+npm install @react-navigationnative
+npx expo install react-native-screens react-native-safe-area-context
+npx expo install react-native-gesture-handler react-native-reanimated
+npx expo install @react-native-masked-viewmasked-view
+npm install @react-navigationstack
+npm install @react-navigationdrawer
+npm install @react-navigationbottom-tabs
+
+npx expo install expo-splash-screen
+npx expo install expo-font
+npm i @expovector-icons
+npm i react-native-elements    socialicon
+npm install --save react-native-vector-icons
+
+npm install --save react-native-responsive-dimensions
+
+
+For Animation
+
+npx expo install expo-linear-gradient
+
+npm install react-native-animatable --save
+
+npm install react-native-circular-progress-indicator
+npx expo install react-native-svg
